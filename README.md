@@ -48,4 +48,4 @@ cd breast-cancer-ensemble
 
 pip install -r requirements.txt
 
-Live Demo:-
+Live Demo:- https://breast-cancer-prediction-using-stacking-j7gxcrfyuwns4u777y9wd6.streamlit.app/
